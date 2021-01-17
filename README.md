@@ -1,0 +1,2 @@
+# StockswPython
+For now, I added a DEMA trading strategy for OrganiGram stock with Python. DEMA (Double Exponential Moving Average) uses two exponential moving averages to eliminate lag. (Uptrend when price is above the average and downtrend when the price is below the average) I visualized the DEMA short and long with the Close Price. As well, I added buy and sell signals using a function to return the signals to the dataset. My goal is to add two machine learning algorithms into this program. 
